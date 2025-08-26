@@ -14,7 +14,7 @@ public class Starter implements Directions{
     // The line below creates a Robot that we will refer to as rob
     // Find out what the numbers and direction do!
     // Put rob in a better location for your initials.
-    Robot rob = new Robot(15,2,South,9);
+    Robot rob = new Robot(1,10,North,80);
 
     // Want a second robot?  No prob.  They are cheap :)
     //Robot dude = new Robot(7,5,West,9);
@@ -24,18 +24,197 @@ public class Starter implements Directions{
 
     // starting the letter R
     rob.putBeeper();
-    rob.putBeeper();
-    rob.putBeeper();
-    rob.putBeeper();
+    rob.move();
+    rob.turnLeft();
     rob.move();
     rob.putBeeper();
     rob.move();
-    rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
     rob.move();
     rob.putBeeper();
     rob.move();
+    rob.turnLeft();
     rob.move();
     rob.putBeeper();
+    rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.move();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.move();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+
+    //Side 2
+    rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.move();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.move();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.move();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.move();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+
+    //side 3
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.turnLeft();
+    rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.turnLeft();
+    rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.turnLeft();
+    rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.turnLeft();
+    rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.turnLeft();
+    rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.turnLeft();
+    rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.turnLeft();
+    rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+
+    //side 4
+     rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.move();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+     rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.move();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+     rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.move();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+     rob.move();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.turnLeft();
+    rob.move();
+    rob.putBeeper();
+    rob.move();
+  
+ 
+
+    
+   
+   
+
+   
+    
+    
 
     // done with the line, now on the curve
     // rob.turnLeft();
